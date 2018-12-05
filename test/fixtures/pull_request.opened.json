@@ -1,6 +1,6 @@
 {
   "action": "opened",
-  "number": 5,
+  "number": 7,
   "pull_request": {
     "url": "https://api.github.com/repos/radugroza/js-stuff/pulls/5",
     "id": 236117892,
